@@ -15,6 +15,8 @@ A Django-based web platform designed to help people reunite with their lost pets
 
 - Admins can archive, restore, and moderate posts, view statistics, and manage user accounts.
 
+- The Super Admin can assign or revoke admin privileges, ensuring flexible control over the platform.
+
 - Features user-friendly functionality for profile editing, password reset, and account deletion.
 
 - Uses charts and graphs to visualize trends in posts and species distribution.
