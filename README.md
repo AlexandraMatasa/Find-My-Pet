@@ -1,4 +1,5 @@
-🐾 Find-My-Pet
+Find-My-Pet 🐾 
+
 A Django-based web platform designed to help people reunite with their lost pets or report pets they’ve found.
 
 ✨ What It Does
